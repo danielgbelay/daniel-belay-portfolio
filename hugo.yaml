@@ -563,17 +563,17 @@ params:
   hero:
     enable: true
     intro: "Hi, my name is"
-    title: "Isabella."
-    subtitle: "I build things for the web"
-    content: "A passionate web app developer. I tend to make use of modern web technologies to build websites that look great, feel fantastic, and function correctly."
-    image: /images/hero.svg
+    title: "Daniel Belay"
+    subtitle: "Cyber Security & Data Analytics Student"
+    content: "I am an Accounting Professional with more than five years of experience and a strong foundation in cybersecurity and data analytics. I am passionate about solving business problems with technology and continuously expanding my technical skills."
+    image: /image/daniel.png.png
     bottomImage:
       enable: true
     # roundImage: true # Make hero image circular | default false
     button:
       enable: true
       name: "Resume"
-      url: "#"
+      url: "/resume/daniel_belay_resume.pdf"
       download: true
       newPage: false
     socialLinks:
@@ -590,101 +590,56 @@ params:
   about:
     enable: true
     title: "About Me"
-    image: "/images/me.png"
+    image: "/image/daniel.png.png"
     content: |-
-      I am a software developer with a passion for web development. I have a background in computer science and mathematics, and I have a strong interest in the intersection of technology and art. I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA.
+      I am an Accounting Professional with more than five years of experience in accounting and finance, combined with a strong foundation in cyber security and data analytics.
 
-      I am currently working on a project that will be used to help people find the best way to get around the city.
+      I completed a Cyber Security Diploma at Trebas Institute and am currently pursuing a Diploma in Data Analytics & Artificial Intelligence at triOS College.
+
+      I enjoy solving business problems using technology, analyzing data, improving processes, and continuously expanding my knowledge in cyber security, artificial intelligence, and business analytics.
     skills:
       enable: true
-      title: "Here are a few technologies I've been working with recently:"
+      title: "Core Skills"
       items:
-        - "HTML"
-        - "CSS"
-        - "JavaScript"
-        - "React"
-        - "Node"
-        - "Express"
+        - "Cyber Security"
+        - "Data Analytics"
+        - "SQL"
+        - "Python"
+        - "Power BI"
+        - "Microsoft 365"
+        - "QuickBooks"
+        - "Microsoft Excel"
 
   # Experience
   experience:
     enable: true
     # title: "Custom Name"
     items:
-      - company: "Facebook"
-        companyUrl: "https://example.com"
+      - company: "triOS College"
         jobs:
-          - name: "Senior Software Developer"
-            date: "Jan 2023 - present"
-            content: "I am currently working as a senior software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city."
-            info:
-              content: Working as a senior software developer
-            featuredItems:
-              fontAwesomeIcons:
-                - icon: fa-brands fa-react
-                  url: https://react.dev/
-                  tooltip: Example tooltip content
-                - icon: fab fa-x-twitter
-                  url: https://example.com
-                  # tooltip: Example tooltip content
-              customIcons:
-                - icon: /fav.png
-                  url: "https://example.com"
-                  tooltip: Example tooltip content
-          - name: "Software Developer"
-            date: "Jan 2022 - Dec 2023"
-            content: "I worked as a software developer. I worked on a project that will be used to help people find the best way to get around the city."
+        - name: "Data Analytics & Artificial Intelligence Student"
+          date: "2026 - Present"
+          content: "Currently pursuing a Diploma in Data Analytics & Artificial Intelligence with hands-on training in Python, SQL, Power BI, machine learning, artificial intelligence, and business analytics."
 
-      - company: "Amazon"
-        companyUrl: "https://example.com"
+      - company: "World Wireless Solutions"
         jobs:
-          - name: "Software Developer"
-            date: "Sep 2020 - Dec 2021"
-            info:
-              content: I worked as a software developer for more than one year in Amazon.
-            content: |
-              I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
+        - name: "Cyber Security Co-op Student"
+          date: "2024 - 2025"
+          content: "Assisted with Microsoft 365 administration, endpoint security, vulnerability assessments, cybersecurity monitoring, and IT support."
 
-              - Lead backend developer for a product.
-              - Created a frontend design for a product.
-
-      - company: "Apple"
-        companyUrl: "https://example.com"
-        jobs: 
-        - name: "Junior Software Developer"
-          date: "Jan 2020 - Aug 2020"
-          featuredItems:
-            fontAwesomeIcons:
-              - icon: fa-brands fa-react
-                url: https://react.dev/
-              - icon: fab fa-x-twitter
-                url: https://example.com
-            customIcons:
-              - icon: /fav.png
-                url: "https://example.com"
-          content: |
-            I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
-
-            - Lead backend developer for a product.
-            - Created a frontend design for a product.
-
-      - company: "Netflix"
-        companyUrl: "https://example.com"
+      - company: "Rubber Plantation & Processing Project"
         jobs:
-        - name: "UI/UX Designer"
-          date: "June 2017 - Nov 2019"
-          content: |
-            I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
+        - name: "Assistant Finance Head"
+          date: "2012 - 2013"
+          content: "Managed financial reporting, budgeting, payroll, cost control, cash flow monitoring, audit preparation, and finance team support."
 
-            - Lead backend developer for a product.
-            - Created a frontend design for a product.
+        - name: "Accountant"
+          date: "2009 - 2011"
+          content: "Managed accounts payable and receivable, reconciliations, payroll support, financial statements, and month-end closing activities."
 
-      - company: "Google"
-        companyUrl: "https://example.com"
-        jobs:
-        - name: "Product Designer"
-          date: "Feb 2016 - Mar 2017"
-          content: "I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city."
+        - name: "Junior Accountant"
+          date: "2007 - 2008"
+          content: "Processed financial transactions, bookkeeping activities, account reconciliations, and accounting records maintenance."
 
   # Education
   education:
