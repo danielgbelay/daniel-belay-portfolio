@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Facial Recognition on Daniel Belay</title>
+		<link>http://localhost:1313/tags/facial-recognition/</link>
+		<description>Recent content in Facial Recognition on Daniel Belay</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Sun, 12 Jul 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/tags/facial-recognition/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Ethical Implications of AI Facial Recognition</title>
+				<link>http://localhost:1313/blogs/assignment3/</link>
+				<pubDate>Sun, 12 Jul 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/blogs/assignment3/</guid>
+				<description>&lt;h1 id=&#34;ethical-implications-of-ai-facial-recognition&#34;&gt;Ethical Implications of AI Facial Recognition&lt;/h1&gt;&#xA;&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;Artificial intelligence (AI) facial recognition technology is transforming industries such as law enforcement, banking, healthcare, transportation, and retail. While it offers significant benefits in security and efficiency, it also raises important ethical concerns regarding privacy, fairness, transparency, accountability, and human rights.&lt;/p&gt;&#xA;&lt;p&gt;This blog examines the ethical implications of AI facial recognition, discusses the Robert Williams case as a real-world example, and explains why responsible AI governance and human oversight are essential.## Understanding AI Facial Recognition&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>
