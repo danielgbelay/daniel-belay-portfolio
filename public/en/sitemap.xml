@@ -2,72 +2,72 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://hugo-profile.netlify.app/tags/ai/</loc>
+    <loc>https://danielgbelay.github.io/daniel-belay-portfolio/tags/ai/</loc>
     <lastmod>2026-06-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hugo-profile.netlify.app/blogs/assignment2/</loc>
+    <loc>https://danielgbelay.github.io/daniel-belay-portfolio/blogs/assignment2/</loc>
     <lastmod>2026-06-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hugo-profile.netlify.app/blogs/</loc>
+    <loc>https://danielgbelay.github.io/daniel-belay-portfolio/blogs/</loc>
     <lastmod>2026-06-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hugo-profile.netlify.app/</loc>
-    <lastmod>2026-06-19T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://hugo-profile.netlify.app/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://hugo-profile.netlify.app/es/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://hugo-profile.netlify.app/fr/"
-                />
-  </url><url>
-    <loc>https://hugo-profile.netlify.app/tags/data-ethics/</loc>
-    <lastmod>2026-06-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://hugo-profile.netlify.app/tags/privacy/</loc>
-    <lastmod>2026-06-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://hugo-profile.netlify.app/tags/</loc>
+    <loc>https://danielgbelay.github.io/daniel-belay-portfolio/</loc>
     <lastmod>2026-06-19T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://hugo-profile.netlify.app/tags/"
+                href="https://danielgbelay.github.io/daniel-belay-portfolio/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://hugo-profile.netlify.app/es/tags/"
+                href="https://danielgbelay.github.io/daniel-belay-portfolio/es/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://hugo-profile.netlify.app/fr/tags/"
+                href="https://danielgbelay.github.io/daniel-belay-portfolio/fr/"
                 />
   </url><url>
-    <loc>https://hugo-profile.netlify.app/categories/</loc>
+    <loc>https://danielgbelay.github.io/daniel-belay-portfolio/tags/data-ethics/</loc>
+    <lastmod>2026-06-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://danielgbelay.github.io/daniel-belay-portfolio/tags/privacy/</loc>
+    <lastmod>2026-06-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://danielgbelay.github.io/daniel-belay-portfolio/tags/</loc>
+    <lastmod>2026-06-19T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://hugo-profile.netlify.app/categories/"
+                href="https://danielgbelay.github.io/daniel-belay-portfolio/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://hugo-profile.netlify.app/es/categories/"
+                href="https://danielgbelay.github.io/daniel-belay-portfolio/es/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://hugo-profile.netlify.app/fr/categories/"
+                href="https://danielgbelay.github.io/daniel-belay-portfolio/fr/tags/"
+                />
+  </url><url>
+    <loc>https://danielgbelay.github.io/daniel-belay-portfolio/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://danielgbelay.github.io/daniel-belay-portfolio/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://danielgbelay.github.io/daniel-belay-portfolio/es/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://danielgbelay.github.io/daniel-belay-portfolio/fr/categories/"
                 />
   </url>
 </urlset>
