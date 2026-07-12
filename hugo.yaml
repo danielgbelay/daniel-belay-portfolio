@@ -586,7 +586,7 @@ params:
         - icon: fab fa-linkedin
           url: https://www.linkedin.com/in/daniel-belay-147b23113
       
-        - icon: fas fa-envelope
+        - icon:  fa fa-envelope
           url:  mailto:mada2128@gmail.com
 
   # About
