@@ -705,7 +705,7 @@ params:
     items:
       - title: "Rubber Plantation & Processing Project"
         content: "Worked for more than five years as Junior Accountant, Accountant, and Assistant Finance Manager. Responsible for financial reporting, budgeting, payroll, cost control, account reconciliation, and supporting financial decision-making."
-        image: "/image/accounting.png.jpg"
+        image:  "image/accounting.png.jpg"
         featured:
           name: "View Experience"
           link: "#experience"
@@ -717,7 +717,7 @@ params:
 
       - title: "Cyber Security Internship"
         content: "Completed a cyber security internship at World Wireless Solutions, where I gained practical experience with Microsoft 365 administration, network security, threat monitoring, vulnerability assessment, and cybersecurity best practices."
-        image: /image/cybersecurity.png.jpg
+        image: "image/cybersecurity.png.jpg"
         featured:
           name: "View Experience"
           link: "#experience"
@@ -729,7 +729,7 @@ params:
 
       - title:  "Data Analytics & Artificial Intelligence"
         content: "Currently studying Data Analytics and Artificial Intelligence at triOS College. Learning SQL, Python, Power BI, Excel, data visualization, machine learning, and artificial intelligence concepts."
-        image: /image/analytics.png.jpg
+        image: "image/analytics.png.jpg"
         featured:
           name: "View Education"
           link: "#education"
@@ -740,7 +740,7 @@ params:
         
       - title: "AI Ethics Blog"
         content: "Researched and published a blog post discussing ethical issues in artificial intelligence, including fairness, bias, transparency, accountability, privacy, AI governance, and responsible AI development."
-        image: /image/aiethics.png.jpg
+        image: "image/aiethics.png.jpg"
         featured:
           name: "Read Blog"
           link: "/blogs/"
@@ -751,7 +751,7 @@ params:
       
       - title: "Personal Portfolio Website"
         content: "Designed and customized a professional portfolio website using Hugo, GitHub Pages, and Visual Studio Code to showcase education, experience, projects, achievements, and blog posts."
-        image: /image/portfolio.png.jpg
+        image: "image/portfolio.png.jpg"
         featured:
           name:  "Visit Portfolio"
           link:  "https://danielgbelay.github.io/"
