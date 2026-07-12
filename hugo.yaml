@@ -680,23 +680,23 @@ params:
     items:
        - title: "Cyber Security Diploma"
          content: "Successfully completed the Cyber Security Diploma program at Trebas Institute in Toronto, gaining practical knowledge in network security, cloud security, ethical hacking, incident response, and Microsoft 365 administration."
-         image: "/image/cybersecurity.png.jpg"
+         image: "image/cybersecurity.png.jpg"
 
        - title: "Microsoft Certified (MS-900)"
          content: "Earned the Microsoft 365 Fundamentals certification, demonstrating knowledge of Microsoft cloud services, security, compliance, and productivity solutions."
-         image: "/image/cybersecurity.png.jpg"
+         image: "image/cybersecurity.png.jpg"
 
        - title: "Cyber Security Internship"
          content: "Completed a cyber security internship at World Wireless Solutions, working with Microsoft 365, network security, vulnerability assessments, and cyber security best practices."
-         image: "/image/cybersecurity.png.jpg"
+         image: "image/cybersecurity.png.jpg"
 
        - title: "Bachelor of Accounting"
          content: "Graduated with a Bachelor of Accounting from Addis Ababa University and built more than five years of professional experience in accounting and financial management."
-         image: "/image/accounting.png.jpg"
+         image: "image/accounting.png.jpg"
 
        - title: "Data Analytics & Artificial Intelligence"
          content: "Currently studying Data Analytics and Artificial Intelligence at triOS College, expanding my skills in SQL, Python, Power BI, machine learning, and business intelligence."
-         image: "/image/analytics.png.jpg"
+         image: "image/analytics.png.jpg"
 
   # projects
   projects:
