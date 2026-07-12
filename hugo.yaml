@@ -567,7 +567,7 @@ params:
     enable: true
     intro: "Hi, my name is"
     title: "Daniel Belay"
-    subtitle: "Cyber Security & Data Analytics Student"
+    subtitle: Cybersecurity | Data Analytics | Accounting Professional
     content: "I am an Accounting Professional with more than five years of experience and a strong foundation in cybersecurity and data analytics. I am passionate about solving business problems with technology and continuously expanding my technical skills."
     image: /image/daniel.png.png
     bottomImage:
@@ -585,9 +585,9 @@ params:
           url: https://github.com/danielgbelay
         - icon: fab fa-linkedin
           url: https://www.linkedin.com/in/daniel-belay-147b23113
-      customIcons:
-        - icon: /fav.png
-          url: "https://example.com"
+      
+        - icon: fas fa-envelope
+          url:  mailto:mada2128@gmail.com
 
   # About
   about:
